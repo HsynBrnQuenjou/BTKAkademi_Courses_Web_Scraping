@@ -66,8 +66,24 @@ python btkakademi_web_scraping.py
 
 ---
 
+## 📌 Excel Düzenleme İpucu
+
+Excel'deki veri görünümünü otomatik olarak düzgün hale getirmek için:
+
+1. `Sheet1` sekmesine sağ tıklayın → **Kod Görüntüle** seçeneğine tıklayın.
+2. Sol üstte açılan kod penceresinde `(General)` yazan yeri **Worksheet** olarak değiştirin.
+3. Aşağıdaki kod satırını ekleyin:
+
+```vba
+Columns.AutoFit
+```
+
+4. `Ctrl + S` ile kaydedin ve dosyayı kapatın.
+5. Şimdi Excel dosyanız açıldığında sütunlar otomatik olarak içeriklere göre hizalanmış olacaktır.
+
+---
+
 ## 👨‍💻 Geliştirici
 
 **Baran Hüseyin Kençü**
 Otomasyon ve veri işleme tutkusu ile geliştirildi. 💻❤️
-
