@@ -37,6 +37,16 @@ Aşağıdaki komutla gerekli kütüphaneleri yükleyebilirsiniz:
 pip install selenium pandas openpyxl
 ````
 
+Sorun yaşarsanız sırayla kütüphaneleri yükleyiniz:
+
+```bash
+pip install selenium
+````
+
+```bash
+pip install openpyxl pandas
+````
+
 ---
 
 ## 🔧 Kurulum ve Kullanım
