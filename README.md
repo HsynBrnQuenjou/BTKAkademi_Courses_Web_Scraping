@@ -43,7 +43,7 @@ pip install selenium pandas openpyxl
 
 1. **ChromeDriver İndir**
    Mevcut Chrome tarayıcınızla uyumlu ChromeDriver sürümünü buradan indirin:
-   [https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)
+   [https://googlechromelabs.github.io/chrome-for-testing/](https://googlechromelabs.github.io/chrome-for-testing/)
 
 2. **chromedriver.exe Dosyasını Yerleştir**
    `chromedriver.exe` dosyasını bu proje dizinine yerleştirin veya sistem PATH’inize ekleyin.
