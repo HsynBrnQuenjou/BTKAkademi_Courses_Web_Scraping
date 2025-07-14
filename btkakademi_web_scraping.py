@@ -52,7 +52,7 @@ try:
             kurs_link_element = div.find_element(By.TAG_NAME, "a")
             kurs_link = kurs_link_element.get_attribute("href")
 
-            kurs_adi = div.find_element(By.CLASS_NAME, "font-medium").text.strip()
+            kurs_adi = div.find_element(By.CLASS_NAME, "font-medium").get_attribute("title").strip() #text.strip() yapılınca kurs adını tamamen alamıyor
             kurs_seviye = div.find_element(By.CLASS_NAME, "txt-secondary").text.strip()
 
             # Linkin tam URL olduğundan emin ol
