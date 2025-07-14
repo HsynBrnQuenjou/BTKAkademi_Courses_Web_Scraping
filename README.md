@@ -51,16 +51,16 @@ pip install selenium pandas openpyxl
 3. **Python Script’ini Çalıştırın**
 
 ```bash
-python btkakademi_scraper.py
+python btkakademi_web_scraping.py
 ```
 
-> Script çalıştırıldığında Chrome tarayıcısı açılır, tüm kursları tarar ve verileri `btkakademi_courses.xlsx` dosyasına kaydeder.
+> Script çalıştırıldığında Chrome tarayıcısı açılır, tüm kursları tarar ve verileri `btkakademi_kurslar.xlsx` dosyasına kaydeder.
 
 ---
 
 ## ⚠️ Notlar
 
-* Eğer Excel dosyası başka bir programda açıkken çalıştırırsanız, script dosyayı `btkakademi_courses_2.xlsx` adıyla yedek olarak kaydetmeyi dener.
+* Eğer Excel dosyası başka bir programda açıkken çalıştırırsanız, script dosyayı `btkakademi_kurslar_2.xlsx` adıyla yedek olarak kaydetmeyi dener.
 * BTK Akademi web sitesinin HTML yapısı değişirse, scriptteki sınıf/ID seçicileri güncellemeniz gerekebilir.
 * ChromeDriver, Chrome tarayıcı sürümünüzle uyumlu olmalıdır. Uyum problemi yaşarsanız yeni sürüm indirin.
 
