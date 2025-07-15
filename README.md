@@ -26,8 +26,9 @@ Bu Python betiği, [BTK Akademi](https://www.btkakademi.gov.tr/portal/catalog) k
 ## 🛠 Gereksinimler
 
 - Python 3.7 veya üzeri
-- Google Chrome (kurulu olmalı)
-- ChromeDriver (Chrome sürümünüzle uyumlu olmalı)
+- `selenium`
+- `pandas`
+- Google Chrome ve ChromeDriver (uyumlu sürüm)
 
 ### Python Kütüphaneleri
 
