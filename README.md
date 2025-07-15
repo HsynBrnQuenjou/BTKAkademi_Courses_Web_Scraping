@@ -69,7 +69,7 @@ python btkakademi_web_scraping.py
 
 ---
 
-✅ Bu script sayesinde AcademyPatika'deki tüm kurslara hızlıca ulaşabilir ve analiz edebilirsiniz.
+✅ Bu script sayesinde BTK Akademi'deki tüm kurslara hızlıca ulaşabilir ve analiz edebilirsiniz.
 
 ## ⚠️ Notlar
 
