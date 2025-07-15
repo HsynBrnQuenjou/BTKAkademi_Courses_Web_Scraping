@@ -69,6 +69,8 @@ python btkakademi_web_scraping.py
 
 ---
 
+✅ Bu script sayesinde AcademyPatika'deki tüm kurslara hızlıca ulaşabilir ve analiz edebilirsiniz.
+
 ## ⚠️ Notlar
 
 * Eğer Excel dosyası başka bir programda açıkken çalıştırırsanız, script dosyayı `btkakademi_kurslar_2.xlsx` adıyla yedek olarak kaydetmeyi dener.
